@@ -1,6 +1,6 @@
 # Smart Recipe Recommendation System and Classifier
 
-##**Project Objective:** 
+## **Project Objective:** 
 -  Recommendation System: 
 Build an intelligent recipe recommendation system that suggests personalized 
 recipes based on dietary preferences, health goals, available ingredients, 
