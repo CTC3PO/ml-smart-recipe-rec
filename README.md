@@ -2,8 +2,6 @@
 
 ## **Project Objective:** 
 -  Recommendation System: 
-Build an intelligent recipe recommendation system that suggests personalized 
-recipes based on dietary preferences, health goals, available ingredients, 
-and cooking methods using the MM-Food-100K dataset.
+ Build an end-to-end machine learning pipeline that transforms raw recipe data into personalized, intelligent food recommendations supporting diverse dietary needs and health goals. Data is from the MM-Food-100K dataset. 
 - Recipe Classifiers: Analyze visual features learned from thousands of food images and uses deep learning to distinguish cuisine-specific visual characteristics
-  
+
